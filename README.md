@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I’m Aman Asthana  <br><br>🚀 Backend-focused Full Stack Developer  <br>💻 Building scalable APIs with Node.js, Express, MongoDB, Redis  <br>🤖 Working on AI-powered projects using Google Gemini  <br>🔐 Experienced with JWT auth, rate limiting, caching, and system design basics  <br><br>🌱 Currently learning:<br>- Advanced Redis (rate limiting, queues)<br>- System Design (real-world backend patterns)<br>- Clean backend architecture<br><br>🛠️ Tech Stack:<br>- Backend: Node.js, Express, MongoDB, Redis, Prisma<br>- Frontend: React, Next.js, Tailwind CSS<br>- Tools: Git, Postman, Cloudinary<br><br>📌 Projects:<br>- AI Interview Question Generator (Resume-based)<br>- Secure Auth System with Redis Token Blacklisting<br>- Payment & Subscription-ready APIs<br><br>📫 Let’s connect:<br>- GitHub: https://github.com/yourusername<br>
+Hi 👋 I’m Aman Asthana  <br><br>🚀 Backend-focused Full Stack Developer  <br>💻 Building scalable APIs with Node.js, Express, MongoDB, Redis  <br>🤖 Working on AI-powered projects using Google Gemini  <br>🔐 Experienced with JWT auth, rate limiting, caching, and system design basics  <br><br>
 
 
 ## 🌐 Socials:
