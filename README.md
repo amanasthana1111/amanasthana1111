@@ -1,17 +1,130 @@
-# 💫 About Me:
-Hi 👋 I’m Aman Asthana  <br><br>🚀 Backend-focused Full Stack Developer  <br>💻 Building scalable APIs with Node.js, Express, MongoDB, Redis  <br>🤖 Working on AI-powered projects using Google Gemini  <br>🔐 Experienced with JWT auth, rate limiting, caching, and system design basics  <br><br>
+<!-- ====== HEADER ANIMATION ====== -->
 
+<h1 align="center">
+  Hi 👋 I'm Aman Asthana
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_asthana12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanasthanacse) 
+<h3 align="center">
+  🚀 Backend Engineer | System Design Enthusiast | Production-Grade Builder
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;700%2B+Active+Users+Served;1500%2B+NPM+Downloads+in+24+Hours;JWT+%7C+Redis+%7C+System+Design;Clean+Architecture+%26+Performance+Focused" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amanasthana1111&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌊 About Me
+
+```ts
+const aman = {
+  role: "Backend Engineer",
+  stack: ["Node.js", "TypeScript", "MongoDB", "PostgreSQL", "Redis"],
+  architecture: ["Scalable APIs", "Clean Architecture", "JWT Auth", "Caching"],
+  achievements: {
+    users_served: "700+",
+    npm_downloads_24h: "1500+",
+    leetcode_problems: "250+",
+    international_rank: "Top 5.2%"
+  },
+  focus: "Building production-grade backend systems"
+}
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Folify – AI Interview & ATS Resume Platform
+- 🔥 700+ Active Users
+- ⚡ Redis Caching + Rate Limiting
+- 🔐 Secure JWT Authentication
+- 🤖 Integrated Google Gemini AI
+- ☁️ Cloudinary File Handling
+
+---
+
+### 📦 create-backend-setup (NPM CLI)
+- 🚀 1500+ Downloads in 24 Hours
+- 🏗 Automated Express + TypeScript Setup
+- 🔐 JWT + bcrypt + Zod Validation
+- ⏱ Reduced backend setup from hours → minutes
+
+---
+
+### 🧠 Second-Brain Backend
+- 🧩 Modular & Scalable Architecture
+- 🔗 Revocable Share Links
+- 📚 MongoDB + PostgreSQL Support
+- 🚀 Ready for AI Semantic Search
+
+---
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,postgres,redis,react,nextjs,tailwind,docker,git,cpp,python,java&perline=7" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanasthana1111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanasthana1111&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanasthana1111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amanasthana1111/amanasthana1111/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st Place – DRON-Pratibimb Hackathon  
+- 🥉 3rd Place – Microsoft Ideathon  
+- 🌏 Top 5.2% – METI Japan IT Internship Contest  
+- 📚 Published Research – Blockchain Certificate Verification  
+- 💡 250+ LeetCode Problems Solved  
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/amanasthanacse">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/aman_asthana12">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Current Focus
+
+- Scaling backend systems to 10k+ users
+- Advanced system design
+- Distributed systems fundamentals
+- High-performance API architecture
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F72E,100:007CF0&height=120&section=footer"/>
+</p>
