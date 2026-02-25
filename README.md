@@ -72,26 +72,6 @@ const aman = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanasthana1111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanasthana1111&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanasthana1111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amanasthana1111/amanasthana1111/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🏆 Achievements
 
