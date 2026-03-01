@@ -19,8 +19,8 @@
 ## 🌊 About Me
 
 ```ts
-const aman = {
-  role: "Backend Engineer",
+const Aman = {
+  role: "Software Engineer, Backend Engineer, Frontend Engineer",
   stack: ["Node.js", "TypeScript", "MongoDB", "PostgreSQL", "Redis"],
   architecture: ["Scalable APIs", "Clean Architecture", "JWT Auth", "Caching"],
   achievements: {
