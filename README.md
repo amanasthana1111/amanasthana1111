@@ -17,7 +17,7 @@
 ---
 
 ## 🌊 About Me
-
+```ts
 const Aman = {
   role: "Software Engineer, Backend Engineer, Frontend Engineer",
   stack: ["Node.js", "TypeScript", "MongoDB", "PostgreSQL", "Redis"],
@@ -30,7 +30,7 @@ const Aman = {
   },
   focus: "Building production-grade backend systems"
 }
-
+```
 
 ---
 
