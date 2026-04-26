@@ -27,7 +27,7 @@
 
 ```typescript
 const Aman = {
-  role       : "SDE-1 | Backend Engineer | Full Stack",
+  role       : "",
   location   : "Greater Noida, India",
   education  : "B.Tech CSE — AKTU (2022–2026)",
   stack      : ["TypeScript", "Node.js", "Fastify", "PostgreSQL", "Redis", "Docker"],
