@@ -15,7 +15,7 @@
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanasthanacse)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F72E?style=flat-square&logo=vercel&logoColor=black)](https://aman-asthana.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-FF6B35?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mENlAwAL86TuigDtPbiu4clgPcjzFR0y/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-FF6B35?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1da0LvHckc-4OEOy6yq8HokmavLnwybkv/view?usp=drive_link)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/amanasthana1111)
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-00F72E?style=flat-square)
 
