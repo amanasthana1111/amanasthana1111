@@ -34,7 +34,7 @@ const Aman = {
   architecture: ["Microservices", "Clean Architecture", "Event-Driven", "REST APIs"],
 
   achievements: {
-    users_in_production : "700+",
+    users_in_production : "850+",
     npm_downloads_24h   : "1,500+",
     leetcode_solved     : "250+",
     global_rank         : "Top 5.2% (METI Japan)",
