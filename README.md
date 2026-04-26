@@ -158,7 +158,7 @@ const Aman = {
 │  02  🥉  3rd Place  ·  Microsoft Ideathon                       │
 │  03  🌏  Top 5.2%   ·  METI Japan IT Internship Contest (Global)│
 │  04  📄  Published  ·  Research · Blockchain Certificate Verify │
-│  05  💡  250+       ·  LeetCode Problems Solved                 │
+│  05  💡  500+       ·  LeetCode Problems Solved                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
